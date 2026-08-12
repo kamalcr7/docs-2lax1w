@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-tea275.yoursingles.online/sitemap.xml
